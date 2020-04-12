@@ -10,6 +10,7 @@ import youtube_dl
 import asyncio
 import discord
 from discord.ext import commands
+import pynacl
 from async_timeout import timeout
 
 # Silence useless bug reports messages
